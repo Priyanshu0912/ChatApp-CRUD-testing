@@ -1,5 +1,6 @@
 # ChatApp-CRUD-testing
 
+# Chat App : Demo link 
 Quick Chat is a real-time messaging application that allows users to send and receive messages instantly. Built with modern web technologies, it provides a seamless chat experience with user authentication and message history.
 
 ## Features
@@ -74,7 +75,4 @@ The application will be available at `http://localhost:3000`.
 
 ## Contribution
 Feel free to fork the repository and submit a pull request with improvements or new features! 🚀
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
